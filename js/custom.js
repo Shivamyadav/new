@@ -89,7 +89,7 @@ $(document).ready(function () {
     function initialize() {
         var mapCanvas = document.getElementById('map');
         var mapOptions = {
-            center: new google.maps.LatLng(28.612260, 77.035406),
+            center: new google.maps.LatLng(28.613070, 77.035735),
             zoom: 8,
             mapTypeId: google.maps.MapTypeId.ROADMAP
         }
