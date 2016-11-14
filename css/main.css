@@ -257,6 +257,7 @@ Sliders Style
   overflow: hidden;
 }
 #owl-hero .item {
+
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
@@ -483,7 +484,7 @@ Work Process Style
   margin-top: 40px;
 }
 #work-process h2 {
-  text-transform: uppercase;
+
 }
 #work-process h4 {
   text-transform: uppercase;
